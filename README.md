@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gustavo;-)
+### Hi! I'm Gustavo;-)
 
 <div align="center">
   <a href="https://github.com/gustaribeiro">
