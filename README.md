@@ -1,7 +1,5 @@
 ## Hi there
-Hey! Welcome to my profile. I'll tell you a little about myself.
-
-In my free time, I like to read, play basketball, play with my dog, watch anime and take a nap.
+Hey! Welcome to my profile.
 
 I currently study web development, but my interest in development is broad.
 
